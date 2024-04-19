@@ -37,7 +37,7 @@
 */
 
 
-var scriptVer = "4.01";
+var scriptVer = "4.02";
 
 
 function ANM_Contour_Generator()
